@@ -7,7 +7,9 @@ Accomplishments: 10x’d linkedin engagement, collectiving wasted years of peopl
 - expert at sitting silently in meetings that should have been an email  
 - i love Windows™  
 - can bench 225
-- 3.406 gpa in college
+- switching to vim
+- 3.406 gpa at a mid school
+
 
 ## Future Outlook
 will be working a manual labor job if I don't find a tech job soon, while also pursing a masters in CS online.
