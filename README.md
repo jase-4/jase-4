@@ -27,6 +27,4 @@
 ## 📫 Reach Me
 [LinkedIn](https://linkedin.com/in/jase-branch) | [GitHub](https://github.com/jase-4) | jase_branch4@outlook.com
 
----
 
-> “If it compiles, ship it. If it flies, log it.” – probably not a real quote
