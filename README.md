@@ -2,7 +2,12 @@
 
 
 
-Systems programmer focused on **embedded systems**, **real-time graphics**, and **autonomous systems simulation**. Recently got a 3D printer so have been diving deeper into robotics.
+Systems programmer focused on **embedded systems**, **robotics**, and **real-time software**.
+
+Primarily working in **C++**, with additional experience in **Rust** and **Python**. Recently expanded into **PCB design**, **3D printing**, and physical robotics systems.
+
+Interested in **robotics**, **autonomous systems**, **drones**, and **defense**.
+
 
 ---
 
