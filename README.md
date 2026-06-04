@@ -37,6 +37,7 @@ My Site: [jasebranch.com](https://jasebranch.com) | LinkedIn: [jase-branch](http
 **Embedded Sensor Fusion Network** [Repo](https://github.com/jase-4/embedded-sensor-network) | [Blog](https://jasebranch.com/posts/distrib_embed/) – Distributed system with **STM32** (**FreeRTOS**) and **ESP32** (Rust/Embassy) nodes communicating over CAN bus and Wi-Fi. 
 
 **ROS2 Autonomous Navigation Benchmark** [Repo](https://github.com/jase-4/Docker-ROS2-Benchmarking-Framework) | [Blog](https://jasebranch.com/posts/ros2_docker/) – Reproducible autonomous navigation benchmarking framework using ROS2, Nav2, Gazebo, and Docker Compose for parallel testing and metrics collection. 
+
 **GPU Boid Simulation** [Repo](https://github.com/jase-4/boid-sim) | [Blog](https://jasebranch.com/posts/cuda_boid_sim/) – **CUDA**-accelerated flocking simulation achieving **35–40× speedup** over a CPU baseline with OpenGL instanced rendering. 
 
 **OpenGL 3D Renderer** [Repo](https://github.com/jase-4/renderer) | [Blog](https://jasebranch.com/posts/renderer/) – Custom ECS architecture with Blinn-Phong lighting, shadow mapping, and a GLSL shader pipeline in **C++**. 
